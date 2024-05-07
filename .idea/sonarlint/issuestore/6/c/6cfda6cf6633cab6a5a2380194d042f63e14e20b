@@ -1,0 +1,12 @@
+
+å
+java:S1598"ÂThis file "BinarySearch.java" should be located in "com/example/project5search" directory, not in "/Users/Darel/IdeaProjects/Project5BinarySearch/src/main/java/com/example/project5binarysearch".(ó–…Æıÿÿÿÿ8è¨íõ1
+N
+java:S1602&",Remove useless curly braces around statement(Ÿà“üÿÿÿÿ8¡©íõ1
+G	java:S106("+Replace this use of System.out by a logger.(™ìŠó8£©íõ1
+N
+java:S1602,",Remove useless curly braces around statement(Î›¨ûÿÿÿÿ8£©íõ1
+G	java:S106."+Replace this use of System.out by a logger.(ÍÔ¢8¤©íõ1
+N
+java:S16021",Remove useless curly braces around statement(óê¶öÿÿÿÿÿ8¥©íõ1
+L	java:S1063"+Replace this use of System.out by a logger.(³œ‚äşÿÿÿÿ8¥©íõ1

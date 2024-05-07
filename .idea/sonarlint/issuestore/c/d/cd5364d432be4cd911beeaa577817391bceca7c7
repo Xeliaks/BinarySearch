@@ -1,0 +1,20 @@
+
+`
+java:S2119F"Save and re-use this "Random".(¼İÅf8èÕ¦õ1J$755edcdd-38d1-41b5-973a-49c35c3ef4d6
+r	java:S106T"+Replace this use of System.err by a logger.(Óö—Èøÿÿÿÿ8êÕ¦õ1J$3af2f348-1855-426d-946d-b0a01d66475e
+€
+java:S1854w"8Remove this useless assignment to local variable "step".( êˆ‘üÿÿÿÿ8ñÕ¦õ1J$820cad70-c9d3-4a90-8742-fa1f1c68448e
+q
+java:S1481w")Remove this unused "step" local variable.( êˆ‘üÿÿÿÿ8óÕ¦õ1J$1cc18aa5-20d9-4682-8719-764048f84002
+
+java:S3252"EUse static access with "javafx.animation.Animation" for "INDEFINITE".(Êı şÿÿÿÿ8÷Õ¦õ1J$70cb9fd5-314e-4eda-961d-497090b4d4b0
+n
+java:S1172’"*Remove this unused method parameter "mid".(ËÖ½8ÛĞ—¦õ1J$adbbfb42-1726-4568-8e33-d45e6a981b89
+ˆ
+java:S1612ß"DReplace this lambda with method reference 'Group.class::isInstance'.(é€•µ8ˆÖ¦õ1J$d77f54af-204b-42d9-84ea-95e1f9055039
+‚
+java:S1612ß">Replace this lambda with method reference 'Group.class::cast'.(é€•µ8‰Ö¦õ1J$ef7b7d73-5122-4a9f-a70f-4fe1a0375935
+z
+java:S1128"7Remove this unused import 'javafx.scene.text.TextFlow'.(Šàá8¥š£¦õ1J$93828fc6-88c4-40a8-9c44-89f263af121f
+{
+java:S1128"3Remove this unused import 'javafx.scene.text.Text'.(˜ÿ‡Üşÿÿÿÿ8¥š£¦õ1J$df5ad6bb-b0e8-439f-ab0c-fc170eb2c491
